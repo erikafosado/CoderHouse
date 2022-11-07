@@ -1,0 +1,13 @@
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/bin/Debug/netcoreapp3.1/DesafioUno.deps.json
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/bin/Debug/netcoreapp3.1/DesafioUno.runtimeconfig.json
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/bin/Debug/netcoreapp3.1/DesafioUno.runtimeconfig.dev.json
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/bin/Debug/netcoreapp3.1/DesafioUno.dll
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/bin/Debug/netcoreapp3.1/DesafioUno.pdb
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.csproj.AssemblyReference.cache
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.AssemblyInfoInputs.cache
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.AssemblyInfo.cs
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.csproj.CoreCompileInputs.cache
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.dll
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.pdb
+/Users/erikafosado/Projects/DesafioUno/DesafioUno/obj/Debug/netcoreapp3.1/DesafioUno.genruntimeconfig.cache
